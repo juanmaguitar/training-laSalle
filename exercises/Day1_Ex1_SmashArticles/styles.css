@@ -1,0 +1,33 @@
+
+/* Anchors */
+
+a:hover, a:active {
+  background-color: #C74350;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #333;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1.143em;
+}
+
+* p:last-child {
+  margin-bottom: 0;
+}
+
+::-moz-selection {
+  background: #F6CF74;
+  color: #fff;
+}
+
+::selection {
+  background: #F6CF74;
+  color: #fff;
+}
+
+/* Icons */
+.social a[href*='delicious.com'] {
+  background-image: url('../images/icons/delicious.png');
+}
