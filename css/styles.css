@@ -623,8 +623,8 @@ a:hover { text-decoration: underline; }
 a[class|=icon] { width:auto !important; }
 a[class|=icon]:before { margin-right:10px; }
 
-.day1 { border-left: 20px solid rgba(255,255,0,.2) !important; }
-.day2 { border-left: 20px solid rgba(255,0,255,.2) !important; }
+.html5-contents { border-left: 20px solid rgba(255,255,0,.2) !important; }
+.css3-contents { border-left: 20px solid rgba(255,0,255,.2) !important; }
 .day3 { border-left: 20px solid rgba(0,255,255,.2) !important; }
 
 .resources ul li { margin-bottom:0; }
